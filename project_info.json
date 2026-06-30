@@ -1,0 +1,18 @@
+{
+  "project": "SpaceFinder",
+  "type": "web application",
+  "city": "Saint Petersburg",
+  "purpose": "Search and booking of coworking spaces",
+  "methodology": "Kanban",
+  "repository_branches": [
+    "main",
+    "catalog-search",
+    "booking"
+  ],
+  "artifacts": [
+    "requirements",
+    "prototype",
+    "test scripts",
+    "test cases"
+  ]
+}
